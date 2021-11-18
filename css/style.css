@@ -1,0 +1,33 @@
+.nav-wrapper{
+    background: #C04848;  
+background: -webkit-linear-gradient(to right, #480048, #C04848);  
+background: linear-gradient(to right, #480048, #C04848); 
+}
+
+body{
+    background: #000000;  
+background: -webkit-linear-gradient(to right, #0f9b0f, #000000);  
+background: linear-gradient(to right, #0f9b0f, #000000); 
+
+}
+
+h3{
+    font-size: xx-large;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
+.large .material-icons{
+    color:  #C04848;  
+    background: -webkit-linear-gradient(to right, #480048, #C04848);  
+    background: linear-gradient(to right, #480048, #C04848); 
+
+}
+
+form{
+    text-align: center;
+    
+}
+
+
